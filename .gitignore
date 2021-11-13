@@ -1,0 +1,12 @@
+artifacts/*
+cache/*
+resources/**/creativeClothes/**/*.ydd
+resources/**/creativeClothes/**/*.ytd
+resources/**/creativeClothes/*
+resources/**/creativeHouses
+resources/**/creativeMaps
+resources/**/creativePeds
+resources/**/creativeVehs
+resources/**/vehicles
+resources/**/creativeWeapons
+resources/**/vrp/loading/video.mp4
